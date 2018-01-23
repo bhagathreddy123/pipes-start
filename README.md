@@ -14,3 +14,10 @@ Error: Cannot find module '@angular-devkit/core'
 very simple answer the below command to resolve the problem
 
 npm install --save-dev @angular/cli@latest
+
+
+angular pipes documentation:
+---------------------------- 
+
+https://angular.io/docs/ts/latest/#!?query=pipe
+
